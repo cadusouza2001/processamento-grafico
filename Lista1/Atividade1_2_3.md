@@ -54,7 +54,7 @@ O **EBO** é um buffer que armazena **índices** para os vértices. Ele permite 
  |           |          |  +--------------+|
  |           |          |  |              ||
  |   VBO     | -------->|  |  Configura   ||
- |  (Vértices)          |  |  atributos   ||
+ | (Vértices)|          |  |  atributos   ||
  |           |          |  |  dos VBOs    ||
  |           |          |  +--------------+|
  |           |          |                  |
