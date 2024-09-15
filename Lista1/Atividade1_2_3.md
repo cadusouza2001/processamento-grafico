@@ -70,4 +70,3 @@ O **EBO** é um buffer que armazena **índices** para os vértices. Ele permite 
 - O VBO contém os dados dos vértices que são enviados para a GPU.
 - O VAO vincula os atributos dos vértices e define como serão processados.
 - O EBO contém os índices que definem como os vértices serão reutilizados.
-  Agora, a OpenGL pode processar eficientemente os dados e desenhar a cena.
